@@ -1,2 +1,2 @@
 # MERN-tasks
-Collection of my Raect Js projects.
+Collection of my React Js projects.
